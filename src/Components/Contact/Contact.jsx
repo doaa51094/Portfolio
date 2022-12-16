@@ -16,8 +16,8 @@ export default function Contact({title}) {
     <>
     {isLoading?<Loading/>:<> <section id={`${styles.contact}`} className='d-flex justify-content-center align-items-center'>
     <TopNav title={'Contact'}/>
-      <div className="container p-5">
-        <div className="row">
+      <div className="container pt-5">
+        <div className="row gy-3">
           <div className="col-lg-4 d-flex justify-content-center align-items-start flex-column" data-aos="fade-down">
             <h3>GET IN TOUCH <br/> GET REAL</h3>
             <div className="icons d-flex">
@@ -31,7 +31,7 @@ export default function Contact({title}) {
                               <li className="pb-1 text-light"><i className="fa-solid fa-location-dot pe-2"></i><span> Alexandria</span></li>
                           </ul>
           </div>
-          <div className="col-lg-8" data-aos="fade-left">
+          <div className="col-lg-8 col-12" data-aos="fade-left">
             <div className={`${styles.item} p-5`}>
             <form>
             <input type="text" class="form-control" name='name' placeholder='your name'/>

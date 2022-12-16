@@ -19,7 +19,7 @@ export default function AboutMe({title}) {
    <section id={`${styles.about}`} className='d-flex align-items-center'>
    <TopNav title={'About Me'}/>
    <div className="container py-5 ">
-      <div className="row gy-5">
+      <div className="row gy-4">
         <div className="col-lg-4 d-flex justify-content-center align-items-center" data-aos="fade-down">
          <div className={`${styles.aboutImg} text-center `} >
          <a href="" className='text-decoration-none'>
