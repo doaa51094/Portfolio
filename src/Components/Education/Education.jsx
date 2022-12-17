@@ -21,11 +21,11 @@ export default function Education({title}) {
       <div className="container p-3">
         <div  className={`${styles.educationItem} row p-4 text-light g-4 m-1`} data-aos="zoom-in">
          <div className='col-lg-6'>
-         <h3 class='pt-2'><i class="fa-solid fa-graduation-cap fa-fade"></i> Education</h3>
+         <h3 class='pt-2'><i className="fa-solid fa-graduation-cap fa-fade"></i> Education</h3>
          <StarIcon style='ps-4 pb-2'/>
-          <div class={`${styles.resumeItem} position-relative ps-3 pb-2`}>
+          <div className={`${styles.resumeItem} position-relative ps-3 pb-2`}>
                     <h4>Bachelor of Science</h4>
-                    <h5 class="text-dark p-1"> 2021/2022</h5>
+                    <h5 className="text-dark p-1"> 2021/2022</h5>
                     <p>Faculty of science, Alexandria University<br/> 
                         Mathematics&amp; Computer Science Department
                        
@@ -33,14 +33,14 @@ export default function Education({title}) {
                     </div>
          </div>          
          <div className='col-lg-6'>
-         <h3 class='pt-2'><i class="fa-solid fa-code fa-fade"></i> Courses</h3>
+         <h3 class='pt-2'><i className="fa-solid fa-code fa-fade"></i> Courses</h3>
          <StarIcon style='ps-4 pb-2'/>
-          <div class={`${styles.resumeItem} position-relative ps-3 pb-2`}>
-                    <h5 class="text-dark p-1"> Aug 2022 - Nov 2022</h5>
+          <div className={`${styles.resumeItem} position-relative ps-3 pb-2`}>
+                    <h5 className="text-dark p-1"> Aug 2022 - Nov 2022</h5>
                     <p> Diploma Front-end Developer in Route Academy Egyptian IT- Training Center.</p>
-                    <h5 class="text-dark p-1"> 2021</h5>
+                    <h5 className="text-dark p-1"> 2021</h5>
                     <p>JavaScript(sera Courses)</p>
-                    <h5 class="text-dark p-1"> 2020</h5>
+                    <h5 className="text-dark p-1"> 2020</h5>
                     <p>Matlab Training</p>
                     </div>
          </div>

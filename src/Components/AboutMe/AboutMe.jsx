@@ -22,7 +22,7 @@ export default function AboutMe({title}) {
       <div className="row gy-4">
         <div className="col-lg-4 d-flex justify-content-center align-items-center" data-aos="fade-down">
          <div className={`${styles.aboutImg} text-center `} >
-         <a href="" className='text-decoration-none'>
+         <a href='Doaa CV.pdf' className='text-decoration-none' download='Doaa CV.pdf'>
          <i className='text-white pb-2 fa-3x fa fa-download d-block fa-fade'></i>
          <h4 className='text-white' >DownLoad CV</h4>
          </a>
