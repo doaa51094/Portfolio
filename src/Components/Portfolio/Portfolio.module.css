@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Dancing+Script:wght@500&family=Montserrat&family=Poppins:ital,wght@0,500;1,400&family=Roboto:wght@700&family=Xanh+Mono:ital@1&display=swap');
 .portfolio{
     background-image: linear-gradient(rgb(23,35,47),50%,#000);
-    height: 100vh;
+    height: 100%;
 }
 .portfolio h3{
     color: rgb(127, 186, 245);
