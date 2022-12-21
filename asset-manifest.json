@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.39686dab.css",
-    "main.js": "/Portfolio/static/js/main.f89b2e6e.js",
+    "main.js": "/Portfolio/static/js/main.eb8067cb.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Qoutes.png": "/Portfolio/static/media/Qoutes.ef8610eeac7b1016bfc9.png",
     "static/media/meals.png": "/Portfolio/static/media/meals.66d2470f3f3dcc4694e1.png",
@@ -33,11 +33,11 @@
     "static/media/react-1-logo-svgrepo-com.svg": "/Portfolio/static/media/react-1-logo-svgrepo-com.a99edb5eb9d90d6d9f71eb5fd1ad9da0.svg",
     "index.html": "/Portfolio/index.html",
     "main.39686dab.css.map": "/Portfolio/static/css/main.39686dab.css.map",
-    "main.f89b2e6e.js.map": "/Portfolio/static/js/main.f89b2e6e.js.map",
+    "main.eb8067cb.js.map": "/Portfolio/static/js/main.eb8067cb.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39686dab.css",
-    "static/js/main.f89b2e6e.js"
+    "static/js/main.eb8067cb.js"
   ]
 }
