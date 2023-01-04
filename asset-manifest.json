@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.1482db11.css",
+    "main.css": "/Portfolio/static/css/main.40332a29.css",
     "main.js": "/Portfolio/static/js/main.4545c3fb.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Qoutes.png": "/Portfolio/static/media/Qoutes.ef8610eeac7b1016bfc9.png",
@@ -9,6 +9,7 @@
     "static/media/noxe.png": "/Portfolio/static/media/noxe.9bc18975e19d401bb53b.png",
     "static/media/commerce.png": "/Portfolio/static/media/commerce.035c1ac61906c5d49e5c.png",
     "static/media/weather.png": "/Portfolio/static/media/weather.bd7a4d07115e71b1a784.png",
+    "static/media/home.jpg": "/Portfolio/static/media/home.46d9d3f722187ce6417e.jpg",
     "static/media/game.png": "/Portfolio/static/media/game.01607680d00570c3f75b.png",
     "static/media/fa-solid-900.ttf": "/Portfolio/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fp2.gif": "/Portfolio/static/media/fp2.ccfd317ee675fcfece4d.gif",
@@ -25,7 +26,6 @@
     "static/media/login.png": "/Portfolio/static/media/login.3690f3aed44339404d2f.png",
     "static/media/start react.png": "/Portfolio/static/media/start react.e0d543c69a118fd8951c.png",
     "static/media/icons8-javascript.gif": "/Portfolio/static/media/icons8-javascript.1776ef3b763922ca5ea1.gif",
-    "static/media/tamalsen-home-cover.jpg": "/Portfolio/static/media/tamalsen-home-cover.b18b1cc3bd9dc92efd52.jpg",
     "static/media/BS.png": "/Portfolio/static/media/BS.87b2b41e1d703d5fc6c1.png",
     "static/media/fa-regular-400.woff2": "/Portfolio/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
     "static/media/icons8-github.gif": "/Portfolio/static/media/icons8-github.7d909b64afc22f8b5ad3.gif",
@@ -35,12 +35,12 @@
     "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/react-1-logo-svgrepo-com.svg": "/Portfolio/static/media/react-1-logo-svgrepo-com.a99edb5eb9d90d6d9f71eb5fd1ad9da0.svg",
     "index.html": "/Portfolio/index.html",
-    "main.1482db11.css.map": "/Portfolio/static/css/main.1482db11.css.map",
+    "main.40332a29.css.map": "/Portfolio/static/css/main.40332a29.css.map",
     "main.4545c3fb.js.map": "/Portfolio/static/js/main.4545c3fb.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1482db11.css",
+    "static/css/main.40332a29.css",
     "static/js/main.4545c3fb.js"
   ]
 }
